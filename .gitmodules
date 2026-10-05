@@ -1326,6 +1326,10 @@
 	path = extensions/dev-magic
 	url = https://github.com/susanta96/dev-magic.git
 
+[submodule "extensions/dev-night-theme"]
+	path = extensions/dev-night-theme
+	url = https://github.com/van1dalgrr-arch/dotfiles.git
+
 [submodule "extensions/devglobe-activity-ls"]
 	path = extensions/devglobe-activity-ls
 	url = https://github.com/devglobe-xyz/zed-devglobe.git
