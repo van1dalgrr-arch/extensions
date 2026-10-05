@@ -1363,6 +1363,11 @@ version = "0.1.0"
 submodule = "extensions/dev-magic"
 version = "0.0.1"
 
+[dev-night-icons]
+submodule = "extensions/dev-night-icons"
+path = "zed/dev-night-icons"
+version = "0.2.0"
+
 [devglobe-activity-ls]
 submodule = "extensions/devglobe-activity-ls"
 version = "2.0.1"
